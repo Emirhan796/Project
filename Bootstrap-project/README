@@ -1,0 +1,23 @@
+# 🏠 Cafe Website Project
+
+This project is a modern, responsive **Cafe Website** built with HTML, CSS, Bootstrap, and basic JavaScript. It offers a visually appealing and user-friendly design.
+
+## 🚀 Features
+
+- 🌐 Responsive design for all devices
+- 🗂️ Menu section with categories (Coffee, Food, Dessert)
+- 🖼️ Image gallery with lightbox effect (using fslightbox.js)
+- 📍 Google Maps integration
+- 📩 Simple contact form
+- 📆 Opening hours section
+- 🔗 Social media icons
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- [fslightbox.js](https://fslightbox.com/)
+
+## 📂 Project Structure
